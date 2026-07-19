@@ -8,7 +8,7 @@ public class DatabaseConnection {
     // Database configuration  
     private static final String URL = "jdbc:mysql://localhost:3306/pharmacy_management_system";
     private static final String USER = "root";
-    private static final String PASSWORD = "israa098"; // Your MySQL password
+    private static final String PASSWORD = ""; // Your MySQL password
     
     /**
      * Gets a database connection
